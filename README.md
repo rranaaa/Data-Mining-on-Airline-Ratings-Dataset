@@ -10,3 +10,6 @@ You will find the following in the Jupyter code:
 9) Logistic Regression
 10) Decision Tree
 11) Model Evaluation
+
+
+Airplane Ratings Dataset is available at the following link:
