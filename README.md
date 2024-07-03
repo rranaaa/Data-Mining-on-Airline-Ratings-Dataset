@@ -12,4 +12,4 @@ You will find the following in the Jupyter code:
 11) Model Evaluation
 
 
-Airplane Ratings Dataset is available at the following link:
+Airline Ratings Dataset is available at the following link:
